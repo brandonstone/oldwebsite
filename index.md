@@ -1,10 +1,8 @@
 ---
 layout: home
 ---
-# About Theme
+# About me
 
-This theme is Jekyll port of [vangeltzo.com](http://vangeltzo.com/) (by [Vangelis Tzortzis](https://github.com/srekoble)).
+Hello! My name is Brandon Stone. I am a Junior Software Engineering major at Mississippi State University from Memphis, TN. Currently, I am learning about the different types of software development and engineering techniques to enchance my skills. I aspire to graduate in 2018 and work as a Software Eningeer afterwards. I love music, Memphis, Mississippi State, and everything else that is beautiful in the world.
 
-To learn how to install and use this theme check out the [installation guide](http://taylantatli.me/Halve/halve-theme/) for more information.
-
-If you have a question, find a bug, or just want to say hi, please open an [issue on GitHub](https://github.com/TaylanTatli/Halve/issues/new).
+If you would like to learn more about me, just shoot me an [email](mailto:bs1443@msstate.com) or click on one of those account links. See ya!
