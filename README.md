@@ -2,6 +2,7 @@
   
 ## Introduction
 
-This personal website uses a Jekyll theme, [Halve](http://taylantatli.github.io/Halve). Enjoy!
+My old website that I am just keeping for memory. I am not longer going to use Jekyll, but I highly recommend it though. :)
 
+The original theme: [Halve](http://taylantatli.github.io/Halve)
 
